@@ -3,17 +3,17 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "Count your life",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "by smiles,",  // 同上...
+        "not tears.",
+        "Count your age",
+        "by friends,",
+        "not years.",
+        "Happy birthday! Ate Hydz",
+        "Forget the past;",
+        "look forward to the future,",
+        "for the best things",
+        "are yet to come.",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "IMONG CAKE",
         light_candle: "ANG KANDILA",
         wish_message: "HAPPY BIRTHDAY ATE HYDZ",
-        story: "Wishing you a very happy birthday!” “Today is the day you were brought into this world to be a blessing and inspiration to the people around you! Wish you a very happy birthday!” “Sending you smiles and happiness for every moment of your special day.",
+        story: "PRESS THIS",
     }
 };
